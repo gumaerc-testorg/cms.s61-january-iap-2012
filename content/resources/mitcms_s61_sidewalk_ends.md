@@ -6,10 +6,11 @@ file: /media/courses/cms-s61-special-subject-the-rise-of-film-noir-january-iap-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: b64146a9-74c7-2335-0836-97999e16ccbe
 resourcetype: Document
 title: Where the Sidewalk Ends
-type: OCWFile
 uid: a2c3525b-b81d-ad45-c325-fd6462624fe3
 ---
