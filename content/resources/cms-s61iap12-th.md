@@ -3,7 +3,7 @@ content_type: resource
 description: "Film noir can be characterized by visual techniques like low-key lighting\
   \ and unbalanced compositions. Plots focus on crimes, and murder is a common element.\
   \ Photo by leah8691 on Flickr. CC-BY-NC-SA.\r\n"
-file: /media/courses/cms-s61-special-subject-the-rise-of-film-noir-january-iap-2012/87107a1346fbdabbce0d4169b93af3b9_cms-s61iap12-th.jpg
+file: /courses/cms-s61-special-subject-the-rise-of-film-noir-january-iap-2012/87107a1346fbdabbce0d4169b93af3b9_cms-s61iap12-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Film noir can be characterized by visual techniques like low-key lighting
@@ -19,3 +19,6 @@ resourcetype: Image
 title: cms-s61iap12-th.jpg
 uid: 87107a13-46fb-dabb-ce0d-4169b93af3b9
 ---
+Film noir can be characterized by visual techniques like low-key lighting and unbalanced compositions. Plots focus on crimes, and murder is a common element. Photo by leah8691 on Flickr. CC-BY-NC-SA.
+
+
