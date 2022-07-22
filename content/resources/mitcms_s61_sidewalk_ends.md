@@ -6,6 +6,7 @@ file: /courses/cms-s61-special-subject-the-rise-of-film-noir-january-iap-2012/a2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Where the Sidewalk Ends
 uid: a2c3525b-b81d-ad45-c325-fd6462624fe3
 ---
 Reading assigned for a screening of Where the Sidewalk Ends, directed by Otto Preminger.
-

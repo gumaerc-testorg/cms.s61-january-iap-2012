@@ -5,6 +5,7 @@ file: /courses/cms-s61-special-subject-the-rise-of-film-noir-january-iap-2012/f7
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITCMS_S61_spiralstaircase.pdf
 uid: f726fe2e-2e25-dacc-571f-85c68e1bae68
 ---
 This resource contains information related to the spiral staircase.
-
