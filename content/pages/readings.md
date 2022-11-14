@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The page contains both a reading list and a list of films to be viewed
+  for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -50,7 +52,7 @@ READINGS
 _Double Indemnity_
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_s61_doubleindemnity))
+({{% resource_link 5dba3a07-2ca0-084e-f83f-f5a44b6cb972 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +100,7 @@ Narrative and Visual Complexities in Early Noir / Comparing Our First Two Films
 _The Woman in the Window_
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_s61_woman_in_window))
+({{% resource_link c76a92f3-ac65-6770-a418-3b47662fb525 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +192,7 @@ Watch: _The Set-Up_ or _The Asphalt Jungle_ on your own
 _Where the Sidewalk Ends_
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitcms_s61_sidewalk_ends))
+({{% resource_link a2c3525b-b81d-ad45-c325-fd6462624fe3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
