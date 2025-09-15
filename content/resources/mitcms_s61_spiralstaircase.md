@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information related to the spiral staircase.
-file: /courses/cms-s61-special-subject-the-rise-of-film-noir-january-iap-2012/f726fe2e2e25dacc571f85c68e1bae68_MITCMS_S61_spiralstaircase.pdf
+file: /ol-ocw-studio-app/courses/cms-s61-special-subject-the-rise-of-film-noir-january-iap-2012/f726fe2e2e25dacc571f85c68e1bae68_MITCMS_S61_spiralstaircase.pdf
+file_size: 141730
 file_type: application/pdf
 learning_resource_types:
 - Readings
