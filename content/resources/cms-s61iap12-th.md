@@ -9,8 +9,8 @@ file_type: image/jpeg
 image_metadata:
   caption: Film noir can be characterized by visual techniques like low-key lighting
     and unbalanced compositions. Plots focus on crimes, and murder is a common element.
-    (Photo by {{% resource_link "e1220799-d296-40d1-848c-9723866d1d5e" "leah8691"
-    %}} on Flickr. CC-BY-NC-SA.)
+    (Photo by [leah8691](http://www.flickr.com/photos/leah8691/2053099576) on Flickr.
+    CC-BY-NC-SA.)
   credit: Photo by leah8691 on Flickr. CC-BY-NC-SA.
   image-alt: A black and white photo of an obscured woman on the ground (looking as
     though she is dead).

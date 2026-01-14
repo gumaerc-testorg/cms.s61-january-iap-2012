@@ -9,9 +9,9 @@ title: Readings
 uid: b64146a9-74c7-2335-0836-97999e16ccbe
 ---
 
-\[B&C\] Borde, Raymond, and Etienne Chaumeton. _A Panorama of American Film Noir, 1941-1953_. Translated by Paul Hammond. City Lights Books, 2002. ISBN: 9780872864122. (Original French version published in 1955.) \[Preview with {{% resource_link "00563b84-11e1-4f97-a7fa-34528f4321b8" "Google Books" %}}\]
+\[B&C\] Borde, Raymond, and Etienne Chaumeton. _A Panorama of American Film Noir, 1941-1953_. Translated by Paul Hammond. City Lights Books, 2002. ISBN: 9780872864122. (Original French version published in 1955.) \[Preview with [Google Books](http://books.google.com/books?id=s1l0ENN6vAwC&printsec=frontcover)\]
 
-\[Brook\] Brook, Vincent. _Driven to Darkness: Jewish Émigré Directors and the Rise of Film Noir_. Rutgers University Press, 2009. ISBN: 9780813546308. \[Preview with {{% resource_link "cfbc4bb0-d470-4381-b67c-fc0cf1d04992" "Google Books" %}}\]
+\[Brook\] Brook, Vincent. _Driven to Darkness: Jewish Émigré Directors and the Rise of Film Noir_. Rutgers University Press, 2009. ISBN: 9780813546308. \[Preview with [Google Books](http://books.google.com/books?id=frs8PL1Gb64C&printsec=frontcover)\]
 
 \[S&W\] Silver, Alain, and Elizabeth Ward, eds. _Film Noir: An Encyclopedic Reference to the American Style_. 3rd ed. Overlook Press, 1993. ISBN: 9780879514792. (Note: This edition has been superseded by a new version published in 2010: Silver, Alian, Elizabeth Ward, James Ursini, et al. _The Film Noir Encyclopedia_. Overlook Press, 2010. ISBN: 9781590201442. Either version is fine.
 
